@@ -11,7 +11,7 @@ mvn clean package
 ## Package 
 
 ```
-docker build . -t foo-service 
+docker build . -t foo 
 ```
 
 ## Run
